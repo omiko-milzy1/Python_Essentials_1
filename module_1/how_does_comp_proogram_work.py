@@ -23,5 +23,4 @@ display the result (representing the average speed) in a readable format.
 These four simple actions form a program. Of course, these examples are not formalized, and they are very far from what the computer can understand, but they are good enough to be translated into a language the computer can accept.
 
 Language is the keyword.
-
 """
