@@ -17,5 +17,6 @@ Note: machine languages are developed by humans.
 No computer is currently capable of creating a new language. However, that may change soon. Just as people use a number of very different languages, machines have many different languages, too. The difference, though, is that human languages developed naturally.
 
 Moreover, they are still evolving, and new words are created every day as old words disappear. These languages are called natural languages.
+
 """
 
