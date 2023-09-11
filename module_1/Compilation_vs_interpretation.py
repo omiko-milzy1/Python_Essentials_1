@@ -23,4 +23,7 @@ INTERPRETATION - you (or any user of the code) can translate the source program 
 Due to some very fundamental reasons, a particular high-level programming language is designed to fall into one of these two categories.
 
 There are very few languages that can be both compiled and interpreted. Usually, a programming language is projected with this factor in its constructors' minds - will it be compiled or interpreted?
+
+python is an interpreted language
+
 """
