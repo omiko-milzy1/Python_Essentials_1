@@ -1,5 +1,5 @@
 """
-What does the interpreter actually do?
+What does the interpreter actually do.
 
 Let's assume once more that you have written a program. Now, it exists as a computer file: a computer program is actually a piece of text, so the source code is usually placed in text files.
 
