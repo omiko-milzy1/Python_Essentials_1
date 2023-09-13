@@ -42,4 +42,34 @@ Click File (in the new window), then click Save as..., select a folder for the n
 
 
 Note: don't set any extension for the file name you are going to use. Python needs its files to have the .py extension, so you should rely on the dialog window's defaults. Using the standard .py extension enables the OS to properly open these files.
+Now put just one line into your newly opened and named editor window.
+
+The line looks like this:
+
+print("Hisssssss...")
+
+
+You can use the clipboard to copy the text into the file.
+
+We're not going to explain the meaning of the program right now. You'll find a detailed discussion in the next chapter.
+
+Take a closer look at the quotation marks. These are the simplest form of quotation marks (neutral, straight, dumb, etc.) commonly used in source files. Do not try to use typographic quotes (curved, curly, smart, etc.), used by advanced text processors, as Python doesn’t accept them.
+
+
+
+Save the file (File -> Save) and run the program (Run -> Run Module).
+
+
+
+
+If everything goes okay and there are no mistakes in the code, the console window will show you the effects caused by running the program.
+
+In this case, the program hisses.
+
+Try to run it once again. And once more.
+
+Now close both windows now and return to the desktop.
+
+
+
 """
